@@ -47,7 +47,32 @@ body {
   .topnav-right {
     float: right;
   }
-  
+  .wtchs{
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    /* line-height: 86px; */
+    color: #000000;
+  }
+  .zen{
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 83px;
+    /* identical to box height */
+    color: #000000;
+  }
+  .navText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+  }
   /* Responsive navigation menu (for mobile devices) */
   @media screen and (max-width: 600px) {
     .topnav a, .topnav-right {
