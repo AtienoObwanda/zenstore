@@ -73,6 +73,7 @@ body {
 
     color: #000000;
   }
+
   /* Responsive navigation menu (for mobile devices) */
   @media screen and (max-width: 600px) {
     .topnav a, .topnav-right {
@@ -87,3 +88,6 @@ body {
       transform: none;
     }
   }
+  /* bodybar */
+
+  
