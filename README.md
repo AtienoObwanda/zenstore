@@ -1,4 +1,4 @@
 **Zenith**
 ****
 
-*Coming Soon...*
+*Project still in develoment... Coming soon!*
