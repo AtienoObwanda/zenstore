@@ -129,3 +129,24 @@ body {
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
   }
+  .intro h1{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Inknut Antiqua;
+
+  }
+  .abt h1{
+    Font-family : Inknut Antiqua;
+    font-weight:700;
+    font-size :120px; 
+    line-height: 86.85px
+  }
+  .abt p{
+    font-family: Inika;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+
+  }
