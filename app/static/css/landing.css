@@ -150,3 +150,76 @@ body {
     text-align: left;
 
   }
+
+  .brkpt h1{
+    font-family: Inknut Antiqua;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 105px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+  }
+  .brkpt p{
+    font-family: Inika;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+  }
+  .breakImg{
+    /* min-width: 80%; */
+    /* min-height: 95vh; */
+    width: 472px;
+    height: 464px;
+    overflow: hidden;
+    background: url("https://res.cloudinary.com/dyiuol5sx/image/upload/v1661760708/Zenith/img2_dmhdhu.png") top center/cover no-repeat;
+    position: relative;
+
+  }
+  .breakpointImg{
+    width: 670px;
+    height: 690px;
+    overflow: hidden;
+    background: url("https://res.cloudinary.com/dyiuol5sx/image/upload/v1661760708/Zenith/img3_qmwyum.png") top center/cover no-repeat;
+    position: relative;
+  }
+  .dummy{
+    width: 670px;
+    height: 690px;
+    overflow: hidden;
+    background: url("https://res.cloudinary.com/dyiuol5sx/image/upload/v1662240315/Zenith/dummy_tnfi94.png") top center/cover no-repeat;
+    position: relative;
+  }
+
+  .zenStory h1{
+    font-family: Inika;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+  }
+
+  .zenStory p{
+    font-family: Inika;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+  }
+  .zenStoryImg{
+    width: 588px;
+    height: 564px;
+    overflow: hidden;
+    background: url("https://res.cloudinary.com/dyiuol5sx/image/upload/v1662240643/Zenith/storyImg_ojstbb.png") top center/cover no-repeat;
+    position: relative;
+  }
+  
