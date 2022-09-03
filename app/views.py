@@ -7,3 +7,5 @@ def home(request):
 
 def product(request):
     return render(request,'product.html')
+
+    
