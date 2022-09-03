@@ -10,6 +10,78 @@ body {
 
 }
 
+.topnav {
+    position: relative;
+    overflow: hidden;
+    background-color: #F3EEE7;
+    color: black;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #F3EEE7;
+    color: black;
+  }
+  
+  .topnav a.active {
+    /* background-color: #04AA6D; */
+    color: black;
+  }
+  
+  .topnav-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .topnav-right {
+    float: right;
+  }
+  
+  .zen{
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 83px;
+    /* identical to box height */
+    color: #000000;
+  }
+  .navText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+  }
+
+  /* Responsive navigation menu (for mobile devices) */
+  @media screen and (max-width: 600px) {
+    .topnav a, .topnav-right {
+      float: none;
+      display: block;
+    }
+    
+    .topnav-centered a {
+      position: relative;
+      top: 0;
+      left: 0;
+      transform: none;
+    }
+  }
+
 .card {
     border: none;
     overflow: hidden
