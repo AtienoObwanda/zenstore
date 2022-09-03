@@ -8,4 +8,5 @@ def home(request):
 def product(request):
     return render(request,'product.html')
 
-    
+def landing(request):
+    return render(request,'landing.html')
